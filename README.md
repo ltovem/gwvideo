@@ -1,6 +1,9 @@
 # gwvideo
 
-A new Flutter application.
+这是一个为了学习flutter练手模仿视频APP的的项目.项目用到的接口来自视频APP抓包，如有侵犯请私信删除！
+
+# 运行效果
+<image src="https://raw.githubusercontent.com/ltovem/gwvideo/master/recouse/IMG_0257.PNG"/>
 
 ## Getting Started
 

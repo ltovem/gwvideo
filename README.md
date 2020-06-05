@@ -4,7 +4,10 @@
 
 # 运行效果
 <image src="https://raw.githubusercontent.com/ltovem/gwvideo/master/recouse/IMG_0257.PNG" width="30%" height="30%"/>
-
+<image src="https://github.com/ltovem/gwvideo/blob/master/recouse/IMG_0258.PNG?raw=true" width="30%" height="30%"/>
+<image src="https://github.com/ltovem/gwvideo/blob/master/recouse/IMG_0259.PNG?raw=true" width="30%" height="30%"/>
+<image src="https://github.com/ltovem/gwvideo/blob/master/recouse/IMG_0260.PNG?raw=true" width="30%" height="30%"/>
+<image src="https://github.com/ltovem/gwvideo/blob/master/recouse/IMG_0261.PNG?raw=true" width="30%" height="30%"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
